@@ -1,14 +1,3 @@
-# Chain Metadata GraphQL Service
-
-A GraphQL gateway built in Rust to expose chain metadata and event queries from Substrate indexers.
-
-## Features
-
-- GraphQL API for chain metadata
-- GraphQL API for event queries
-- Real-time subscriptions for events
-- Batching for improved client performance
-
 ## TODO
 
 - [ ] Initial project setup
