@@ -1,10 +1,8 @@
 ## TODO
-
-- [ ] Initial project setup
-- [ ] Basic GraphQL schema with `async-graphql`
-- [ ] HTTP server setup with `actix-web`
-- [ ] Define types for Substrate metadata
-- [ ] Define types for Substrate events
+- [//] Basic GraphQL schema with `async-graphql`
+- [//] HTTP server setup with `actix-web`
+- [//] Define types for Substrate metadata
+- [//] Define types for Substrate events
 - [ ] Implement query resolvers for metadata
 - [ ] Implement query resolvers for events
 - [ ] Placeholder for Substrate indexer interaction logic
